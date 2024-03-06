@@ -1,1 +1,2 @@
-![ZioPao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZioPao&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/ZioPao/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ZioPao/github-stats/master/generated/languages.svg#gh-dark-mode-only)
